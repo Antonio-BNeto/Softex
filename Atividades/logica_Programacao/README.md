@@ -50,5 +50,5 @@ Cada exercício explora conceitos fundamentais da linguagem e aplica **lógica d
 3. Entre em uma das pastas e execute o exercício desejado. Exemplo:
    ```bash
     cd tipos-de-variaveis
-    python exercicio_1.py
+    python exercicio.py
    ```
