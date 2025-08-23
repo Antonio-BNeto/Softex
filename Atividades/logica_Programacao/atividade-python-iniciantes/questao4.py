@@ -9,6 +9,8 @@ def verificar_senha_forte(senha):
         return False
     if not any(char.islower() for char in senha):
         return False
+    if not any(char in "!@#$%" for char in senha):
+        return False
     return True
 
 senha = input("Digite uma senha: ")
