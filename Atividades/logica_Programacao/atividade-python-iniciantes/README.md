@@ -109,4 +109,4 @@ Ao implementar este conjunto de exercícios, foram trabalhados os seguintes conc
 - ✅ **Lógica condicional** – verificação de palíndromos, senha forte e filtros de caracteres.  
 - ✅ **Contagem e dicionários** – uso de dicionários para armazenar frequências de palavras.  
 - ✅ **Expressões booleanas** – verificação de letras maiúsculas, minúsculas, números e tamanho de strings.  
-- ✅ **Construção de acrônimos** – manipulação de listas, filtragem de stopwords e uso de `.join()`.  
+- ✅ **Construção de acrônimos** – manipulação de listas, filtragem de stopwords.  
