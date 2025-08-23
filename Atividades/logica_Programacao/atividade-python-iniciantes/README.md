@@ -71,8 +71,7 @@ atividade-python-iniciantes/
 ├─ questao3.py
 ├─ questao4.py
 ├─ questao5.py
-├─ README.md
-└─ .gitignore (opcional)
+└─ README.md
 ```
 ---
 

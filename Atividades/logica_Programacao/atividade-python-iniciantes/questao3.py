@@ -15,5 +15,6 @@ for palavra in palavras:
     else:
         frequencia[palavra] = 1
 
-for palavra, contagem in frequencia.items():
-    print(f"{palavra}: {contagem}")
+
+for palavra, contagem in dict(sorted(frequencia.items())).items():
+    print(f"{palavra}: {contagem}") 
