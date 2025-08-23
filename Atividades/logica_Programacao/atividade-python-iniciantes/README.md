@@ -58,7 +58,7 @@ programar: 1
 - Exemplo:  
 
 ```
-Entrada: C0digoLegal → Saída: Senha forte
+Entrada: C0digoLegal# → Saída: Senha forte
 Entrada: codigo → Saída: Senha fraca
 ```
 ---
