@@ -1,0 +1,3 @@
+pontos_turisticos = {
+	()
+}
